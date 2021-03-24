@@ -2,7 +2,7 @@
 
 My go project layout. 
 
-Many concepts are came from [`golang-standards/project-layout`](https://github.com/golang-standards/project-layout)
+Most of concepts are came from [`golang-standards/project-layout`](https://github.com/golang-standards/project-layout)
 
 
 ## Top-level Directories
